@@ -131,11 +131,41 @@
         flex-direction: column;
         width: 100rem;
         height: 15rem;
+        margin-left: 260px;
     }
 
-    address {
-        flex-direction: column;
-        text-align: center;
+
+    .button-final {
+        margin-left: 300px;
     }
+
+    .endereco {
+        margin-left: 50px;
+    }
+
+    .title-comentario {
+        margin-left: 650px;
+    }
+
+    .sara {
+        margin-right: 450px;
+    }
+
+    .vitoria {
+        margin-right: 450px;
+    }
+
+    .feedback1 {
+        margin-right: 200px;
+    }
+
+    .feedback2 {
+        margin-right: 850px;
+    }
+
+    .feedbacks {
+        gap: 2px;
+    }
+
 }
 
